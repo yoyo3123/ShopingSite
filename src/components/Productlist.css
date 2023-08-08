@@ -1,0 +1,48 @@
+
+.pop_up{
+    
+    z-index: 0;
+    top: 62%;
+    background-color: #3c3b3b;
+    opacity:0.9;
+    border-radius: 0px;
+    transition: top 0.5s ease-out 100ms,background-color 0.5s ease-out 100ms,border-radius 0.5s ease-out 100ms;
+    
+    
+}
+
+
+.button{
+    opacity: 0;
+    transition: opacity 0.5s ease-out;
+}
+
+.p{color: #3c3b3b;transition:color 0.5s ease-out}
+
+.pop_up:hover{
+    border-radius: 20px;
+    opacity:0.9;
+    background-color: #0784c7;
+    top: 31%;
+
+    .button{
+        opacity: 1;
+    }
+    
+    .p{color: white;}
+    
+}
+
+.image{
+    scale: 100%;
+    display: inline-block;
+}
+.image:active{
+    background-color: #3c3b3b;
+    border-radius: 4px;
+}
+
+
+
+
+
