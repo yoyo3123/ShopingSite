@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Shoping_Site/static/css/main.7e4c16cd.css",
+    "main.js": "/Shoping_Site/static/js/main.36216ac7.js",
+    "static/js/787.ce48b3b6.chunk.js": "/Shoping_Site/static/js/787.ce48b3b6.chunk.js",
+    "static/media/shopping-cart.png": "/Shoping_Site/static/media/shopping-cart.0536a050c115dd91665c.png",
+    "static/media/iceCream.jpeg": "/Shoping_Site/static/media/iceCream.ef5a559f656b3d1b2ec2.jpeg",
+    "index.html": "/Shoping_Site/index.html",
+    "main.7e4c16cd.css.map": "/Shoping_Site/static/css/main.7e4c16cd.css.map",
+    "main.36216ac7.js.map": "/Shoping_Site/static/js/main.36216ac7.js.map",
+    "787.ce48b3b6.chunk.js.map": "/Shoping_Site/static/js/787.ce48b3b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e4c16cd.css",
+    "static/js/main.36216ac7.js"
+  ]
+}
